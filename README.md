@@ -1,5 +1,6 @@
 # fatigue-detection
 Keras and openCV Fatigue Detection 
+
 First, you will need to capture video from a camera mounted in the car, or from a video file. You can use OpenCV's cv2.VideoCapture function to do this.
 
 Next, you will need to pre-process the video frames to prepare them for analysis. This can include cropping the frame to focus on the driver's face, converting the frame to grayscale, and possibly applying other image processing techniques such as smoothing or histogram equalization.
